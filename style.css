@@ -1,0 +1,16 @@
+h1 {
+  color:rgb(60, 255, 0);
+  font-style: oblique;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+
+.tengah {
+  text-align: center;
+  color: blueviolet;
+
+}
+.kanan {
+  text-align: right;
+}
